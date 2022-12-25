@@ -9,4 +9,4 @@ def hello_world():
 
 # ex https://Leoksu:ghp_147bkkabcdefgh@github.com/Leoksu/Ultroid
 
-os.system("git clone https://https://mohiuya009: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@github.com/mohiuya009/Ultroid ok && cd ok && pip3 install -r requirements.txt && pip3 install -r re*/st*/op* && python3 -m pyUltroid &")
+os.system("git clone https://mohiuya009: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@github.com/mohiuya009/Ultroid ok && cd ok && pip3 install -r requirements.txt && pip3 install -r re*/st*/op* && python3 -m pyUltroid &")
